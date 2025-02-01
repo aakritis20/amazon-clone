@@ -1,2 +1,2 @@
 # amazon-clone
-created an amzon clone using html and css. 
+created an amazon clone using html and css. 
