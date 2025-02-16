@@ -114,7 +114,7 @@ Add JavaScript functionality for search and navigation.
 Improve responsiveness for smaller screen sizes.
 Enhance styling with CSS animations.
 
-#JavaScript Explanation
+# JavaScript Explanation
 The JavaScript code in this project enhances user interaction by adding dynamic functionality to the MiniAmazon webpage. It enables features such as search functionality, cart updates, smooth scrolling, and menu toggling.
 
 Search Functionality
